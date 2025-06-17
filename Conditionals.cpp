@@ -1,4 +1,4 @@
-// CONDITIONALS
+// CONDITIONAL STATEMENTS
 #include <iostream>
 using namespace std;
 
